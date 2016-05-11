@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Result>
+	<TotalMoney>0</TotalMoney>
+	<TotalScore>0</TotalScore>
+	<UserName />
+	<ItemAbility>
+		<ScoreLevel>1</ScoreLevel>
+		<SizeUpLevel>1</SizeUpLevel>
+		<PlayTimeLevel>1</PlayTimeLevel>
+		<BoostLevel>1</BoostLevel>
+		<MagneticLevel>1</MagneticLevel>
+		<UnbeatableLevel>1</UnbeatableLevel>
+		<BonusLevel>1</BonusLevel>
+	</ItemAbility>
+	<nodeRankings>
+		<Ranking>
+			<Name />
+			<Score />
+		</Ranking>
+		<Ranking>
+			<Name />
+			<Score />
+		</Ranking>
+		<Ranking>
+			<Name />
+			<Score />
+		</Ranking>
+		<Ranking>
+			<Name />
+			<Score />
+		</Ranking>
+		<Ranking>
+			<Name />
+			<Score />
+		</Ranking>
+		<Ranking>
+			<Name />
+			<Score />
+		</Ranking>
+		<Ranking>
+			<Name />
+			<Score />
+		</Ranking>
+		<Ranking>
+			<Name />
+			<Score />
+		</Ranking>
+		<Ranking>
+			<Name />
+			<Score />
+		</Ranking>
+		<Ranking>
+			<Name />
+			<Score />
+		</Ranking>
+	</nodeRankings>
+</Result>

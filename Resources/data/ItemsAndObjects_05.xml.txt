@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ItemsAndObjects>
+
+<Items>
+<Item> <X>1000</X> <Y>220</Y> <CODE>0</CODE> </Item>
+<Item> <X>1050</X> <Y>220</Y> <CODE>0</CODE> </Item>
+<Item> <X>1100</X> <Y>220</Y> <CODE>0</CODE> </Item>
+<Item> <X>1150</X> <Y>220</Y> <CODE>0</CODE> </Item>
+<Item> <X>1200</X> <Y>220</Y> <CODE>0</CODE> </Item>
+</Items>
+
+<Objects>
+<Object> <X>2000</X> <Y>200</Y> <CODE>0</CODE> </Object>
+<Object> <X>3000</X> <Y>220</Y> <CODE>1</CODE> </Object>
+<Object> <X>4000</X> <Y>220</Y> <CODE>2</CODE> </Object>
+<Object> <X>5000</X> <Y>220</Y> <CODE>3</CODE> </Object>
+</Objects>
+
+</ItemsAndObjects>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Items>
+<Item><X>500</X><Y>400</Y><CODE>1</CODE></Item>
+<Item><X>1000</X><Y>200</Y><CODE>5</CODE></Item>
+<Item><X>1500</X><Y>400</Y><CODE>4</CODE></Item>
+<Item><X>2000</X><Y>400</Y><CODE>2</CODE></Item>
+<Item><X>900</X><Y>400</Y><CODE>5</CODE></Item>
+</Items>
